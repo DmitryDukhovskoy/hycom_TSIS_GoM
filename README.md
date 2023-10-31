@@ -4,6 +4,9 @@ and analysis of OSE/OSSE UGOS NAS
 For simulation 0.03 HYCOM is used, regional configuration that includes
 Caribbean, Gulf of Mexico
 
+OSE: nested within GOFS3.1
+OSSE: OB from GLORYS 
+
 For assimilation: TSIS used
 
 More information:
